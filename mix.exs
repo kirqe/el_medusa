@@ -14,7 +14,7 @@ defmodule ElMedusa.Mixfile do
       name: "ElMedusa",
       description: "Fetching json api data from some of the available endpoints of medusa.io",
       source_url: "https://github.com/kirqe/el_medusa",
-      docs: [main: "el_medusa", # The main page in the docs
+      docs: [main: "ElMedusa", # The main page in the docs
           extras: ["README.md"]]
     ]
   end
