@@ -9,13 +9,9 @@ defmodule ElMedusa.Mixfile do
       start_permanent: Mix.env == :prod,
       package: package(),
       deps: deps(),
-
-      # Docs
       name: "ElMedusa",
       description: "Fetching json api data from some of the available endpoints of medusa.io",
-      source_url: "https://github.com/kirqe/el_medusa",
-      docs: [main: "ElMedusa", # The main page in the docs
-          extras: ["README.md"]]
+      source_url: "https://github.com/kirqe/el_medusa"
     ]
   end
 
