@@ -7,10 +7,12 @@ defmodule ElMedusa.Mixfile do
       version: "0.1.0",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
+      package: package(),
       deps: deps(),
 
       # Docs
       name: "ElMedusa",
+      description: "Fetching json api data from some of the available endpoints of medusa.io",
       source_url: "https://github.com/kirqe/el_medusa",
       docs: [main: "el_medusa", # The main page in the docs
           extras: ["README.md"]]
@@ -31,5 +33,11 @@ defmodule ElMedusa.Mixfile do
       {:poison, "~> 3.1"},
       {:ex_doc, "~> 0.16", only: :dev, runtime: false}
     ]
+  end
+
+  defp package do
+   [ maintainers: ["Kirill Beletskiy"],
+      licenses: ["MIT"],
+      links: %{"Github" => "https://github.com/kirqe/el_medusa"} ]
   end
 end
