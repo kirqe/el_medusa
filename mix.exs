@@ -7,7 +7,13 @@ defmodule ElMedusa.Mixfile do
       version: "0.1.0",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
-      deps: deps()
+      deps: deps(),
+
+      # Docs
+      name: "ElMedusa",
+      source_url: "https://github.com/kirqe/el_medusa",
+      docs: [main: "el_medusa", # The main page in the docs
+          extras: ["README.md"]]
     ]
   end
 
@@ -22,7 +28,8 @@ defmodule ElMedusa.Mixfile do
   defp deps do
     [
       {:httpoison, "~> 0.13"},
-      {:poison, "~> 3.1"}
+      {:poison, "~> 3.1"},
+      {:ex_doc, "~> 0.16", only: :dev, runtime: false}
     ]
   end
 end

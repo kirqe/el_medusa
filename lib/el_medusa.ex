@@ -1,5 +1,5 @@
 defmodule ElMedusa do
-  alias ElMedusa.Medusa.{Base, Filters}
+  alias ElMedusa.Medusa.Base
   @moduledoc """
   Module for fetching different kind of information from medusa.io api
   """
@@ -49,43 +49,55 @@ defmodule ElMedusa do
 
   @doc """
   Fetch page with posts for one of the following categories:
-feature
+
   arguments:
 
   1. news, articles, shapito, razbor, games
   2. page (default 0)
-  3. per_page (default 24 can't be updated)
-  4. locale en, ru
+  3. locale en, ru
 
   ## Examples
 
   ```elixir
-  iex> ElMedusa.search('news', 2, 'ru')
+  iex> ElMedusa.search('news', 2)
   iex> ElMedusa.search('news')
   iex> ElMedusa.search('news', 2, 'en')
-  iex> ElMedusa.search('news', 'en')
   ```
 
   """
-  def search(post_type, page \\ 0, locale \\ 'ru') do
+  def search(post_type, page \\ 0, locale \\ "ru") do
     "search?chrono=#{post_type}&page=#{page}&per_page=24&locale=#{locale}"
     |> Base.fetch_data
   end
 
 
+  @doc """
+  Fetch single posting by path
 
-  def collection do
+  ## Examples
 
+  ```elixir
+  iex> ElMedusa.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
+  ```
+
+  """
+  def single_post(path) do
+    Base.fetch_data(path)
   end
 
 
-  def collection_item(url) do
-    Base.fetch_data(url)
-  end
+  @doc """
+  Featured posts?
 
+  ## Examples
 
+  ```elixir
+  iex> ElMedusa.specials
+  ```
+
+  """
   def specials do
-    # https://meduza.io/api/v3/specials/under-the-sun
+    Base.fetch_data("specials/under-the-sun")
   end
 
 
@@ -106,7 +118,6 @@ feature
   ```
 
   """
-
   def collection_stats(collections) do
     list =
       collections

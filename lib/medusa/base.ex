@@ -9,9 +9,7 @@ defmodule ElMedusa.Medusa.Base do
     |> decode
   end
 
-  defp build_url(url) do
-    @base_url <> url
-  end
+  defp build_url(url), do: @base_url <> url
 
   defp parse_response({:ok, %HTTPoison.Response{headers: headers, body: body, status_code: 200}}) do
     case gzipped?(headers) do
@@ -19,14 +17,14 @@ defmodule ElMedusa.Medusa.Base do
       false -> {:ok, body}
     end
   end
+  defp parse_response(_), do: {:error, "Something went wrong!"}
 
   defp decode({:ok, body}) do
     body |> Poison.decode
   end
+  defp decode({:error, error}), do: {:error, "Something went wrong!"}
 
-  defp unzip_body(data) do
-    data |> :zlib.gunzip()
-  end
+  defp unzip_body(data), do: data |> :zlib.gunzip()
 
   defp gzipped?(res) do
     Enum.any?(res, fn({k,v}) -> {k,v} == {"Content-Encoding", "gzip"} end)
