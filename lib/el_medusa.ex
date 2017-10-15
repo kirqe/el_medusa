@@ -53,20 +53,22 @@ defmodule ElMedusa do
   arguments:
 
   1. news, articles, shapito, razbor, games
-  2. page (default 0)
-  3. locale en, ru
+  2. list of options [page: 0, per_page: 24, locale: "ru"]
 
   ## Examples
 
   ```elixir
-  iex> ElMedusa.search('news', 2)
   iex> ElMedusa.search('news')
-  iex> ElMedusa.search('news', 2, 'en')
+  iex> ElMedusa.search('news', page: 2)
+  iex> ElMedusa.search('news', page: 2, locale: "en")
   ```
 
   """
-  def search(post_type, page \\ 0, locale \\ "ru") do
-    "search?chrono=#{post_type}&page=#{page}&per_page=24&locale=#{locale}"
+  def search(post_type, params \\ []) do
+    [page: 0, per_page: 24, locale: "ru"]
+    |> Enum.concat(params)
+    |> Map.new
+    |> (&("search?chrono=#{post_type}&" <> URI.encode_query(&1))).()
     |> Base.fetch_data
   end
 
@@ -106,7 +108,7 @@ defmodule ElMedusa do
 
   As well as a number of comments(reactions)
 
-  Accespts a list of paths one or many
+  Accepts a list of paths one or many
 
 
   ## Examples
