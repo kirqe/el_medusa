@@ -1,4 +1,4 @@
-defmodule ElMedusa.Medusa.Base do
+defmodule ElMeduza.Meduza.Base do
   @base_url "https://meduza.io/api/v3/"
 
   def fetch_data(url) do

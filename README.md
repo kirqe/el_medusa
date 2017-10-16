@@ -1,17 +1,17 @@
-# ElMedusa
+# ElMeduza
 
-Fetching json api data from some of the available endpoints of medusa.io
+Fetching json api data from some of the available endpoints of meduza.io
 
 ## Installation
 
 ```elixir
 def deps do
   [
-    {:el_medusa, "~> 0.1.1"}
+    {:el_meduza, "~> 0.1.2"}
   ]
 end
 ```
 
 `$ mix deps.get`
 
-[Docs](https://hexdocs.pm/el_medusa).
+[Docs](https://hexdocs.pm/el_meduza).

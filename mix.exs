@@ -1,17 +1,17 @@
-defmodule ElMedusa.Mixfile do
+defmodule ElMeduza.Mixfile do
   use Mix.Project
 
   def project do
     [
-      app: :el_medusa,
+      app: :el_meduza,
       version: "0.1.1",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
       package: package(),
       deps: deps(),
-      name: "ElMedusa",
-      description: "Fetching json api data from some of the available endpoints of medusa.io",
-      source_url: "https://github.com/kirqe/el_medusa"
+      name: "ElMeduza",
+      description: "Fetching json api data from some of the available endpoints of meduza.io",
+      source_url: "https://github.com/kirqe/el_meduza"
     ]
   end
 
@@ -34,6 +34,6 @@ defmodule ElMedusa.Mixfile do
   defp package do
    [ maintainers: ["Kirill Beletskiy"],
       licenses: ["MIT"],
-      links: %{"Github" => "https://github.com/kirqe/el_medusa"} ]
+      links: %{"Github" => "https://github.com/kirqe/el_meduza"} ]
   end
 end

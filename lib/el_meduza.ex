@@ -1,7 +1,7 @@
-defmodule ElMedusa do
-  alias ElMedusa.Medusa.Base
+defmodule ElMeduza do
+  alias ElMeduza.Meduza.Base
   @moduledoc """
-  Module for fetching different kind of information from medusa.io api
+  Module for fetching different kind of information from meduza.io api
   """
 
   @doc """
@@ -10,7 +10,7 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.index
+  iex> ElMeduza.index
   ```
 
   """
@@ -25,7 +25,7 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.informers
+  iex> ElMeduza.informers
   ```
 
   """
@@ -39,7 +39,7 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.stocks
+  iex> ElMeduza.stocks
   ```
 
   """
@@ -58,9 +58,9 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.search('news')
-  iex> ElMedusa.search('news', page: 2)
-  iex> ElMedusa.search('news', page: 2, locale: "en")
+  iex> ElMeduza.search('news')
+  iex> ElMeduza.search('news', page: 2)
+  iex> ElMeduza.search('news', page: 2, locale: "en")
   ```
 
   """
@@ -79,7 +79,7 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
+  iex> ElMeduza.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
   ```
 
   """
@@ -94,7 +94,7 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.specials
+  iex> ElMeduza.specials
   ```
 
   """
@@ -114,8 +114,8 @@ defmodule ElMedusa do
   ## Examples
 
   ```elixir
-  iex> ElMedusa.collection_stats(["promo/podpiska-na-vecherku"])
-  iex> ElMedusa.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali", "feature/2017/10/13/uvolen-rukovoditel-tsentra-podgotovki-kosmonavtov-vozmozhnaya-prichina-uhod-izvestnyh-kosmonavtov"])
+  iex> ElMeduza.collection_stats(["promo/podpiska-na-vecherku"])
+  iex> ElMeduza.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali", "feature/2017/10/13/uvolen-rukovoditel-tsentra-podgotovki-kosmonavtov-vozmozhnaya-prichina-uhod-izvestnyh-kosmonavtov"])
 
   ```
 
