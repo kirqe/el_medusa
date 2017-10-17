@@ -18,7 +18,6 @@ defmodule ElMeduza do
     Base.fetch_data("index")
   end
 
-
   @doc """
   Fetch informers.
 
@@ -72,7 +71,6 @@ defmodule ElMeduza do
     |> Base.fetch_data
   end
 
-
   @doc """
   Fetch single posting by path
 
@@ -86,7 +84,6 @@ defmodule ElMeduza do
   def single_post(path) do
     Base.fetch_data(path)
   end
-
 
   @doc """
   Featured posts?
@@ -102,7 +99,6 @@ defmodule ElMeduza do
     Base.fetch_data("specials/under-the-sun")
   end
 
-
   @doc """
   Returns a number of likes for vk, tw, ok, fb
 
@@ -110,13 +106,11 @@ defmodule ElMeduza do
 
   Accepts a list of paths one or many
 
-
   ## Examples
 
   ```elixir
   iex> ElMeduza.collection_stats(["promo/podpiska-na-vecherku"])
   iex> ElMeduza.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali", "feature/2017/10/13/uvolen-rukovoditel-tsentra-podgotovki-kosmonavtov-vozmozhnaya-prichina-uhod-izvestnyh-kosmonavtov"])
-
   ```
 
   """

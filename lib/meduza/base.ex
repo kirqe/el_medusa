@@ -1,4 +1,7 @@
 defmodule ElMeduza.Meduza.Base do
+  @moduledoc """
+  Main module for fetching and parsing requestes based on HTTPoison and Poison
+  """
   @base_url "https://meduza.io/api/v3/"
 
   def fetch_data(url) do
@@ -27,6 +30,6 @@ defmodule ElMeduza.Meduza.Base do
   defp unzip_body(data), do: data |> :zlib.gunzip()
 
   defp gzipped?(res) do
-    Enum.any?(res, fn({k,v}) -> {k,v} == {"Content-Encoding", "gzip"} end)
+    Enum.any?(res, fn({k, v}) -> {k, v} == {"Content-Encoding", "gzip"} end)
   end
 end

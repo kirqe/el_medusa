@@ -1,4 +1,7 @@
 defmodule ElMeduza.Application do
+  @moduledoc """
+  ElMeduza Supervisor
+  """
   use Application
 
   def start(_type, _args) do
