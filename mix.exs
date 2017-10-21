@@ -4,7 +4,7 @@ defmodule ElMeduza.Mixfile do
   def project do
     [
       app: :el_meduza,
-      version: "0.1.4",
+      version: "0.1.5",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
       package: package(),

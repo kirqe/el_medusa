@@ -7,7 +7,7 @@ Fetching json api data from some of the available endpoints of meduza.io
 ```elixir
 def deps do
   [
-    {:el_meduza, "~> 0.1.4"}
+    {:el_meduza, "~> 0.1.5"}
   ]
 end
 ```
