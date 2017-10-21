@@ -8,7 +8,7 @@ defmodule ElMedusa.Medusa.BaseTest do
   end
 
   test "fetch_data" do
-    use_cassette "httpoison_get" do
+    use_cassette "index" do
       {:ok, result} = ElMeduza.Meduza.Base.fetch_data("index")
       assert is_map(result)
     end
