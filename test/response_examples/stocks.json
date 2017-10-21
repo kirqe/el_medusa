@@ -1,0 +1,19 @@
+{
+  "usd": {
+    "prev": 59.002499,
+    "current": 57.365000,
+    "state": "down"
+  },
+  "eur": {
+    "prev": 69.459999,
+    "current": 67.362500,
+    "state": "down"
+  },
+  "brent": {
+    "prev": 0.000000,
+    "current": 58.150002,
+    "state": "down"
+  },
+  "intouch": 0,
+  "btc": "311 239"
+}

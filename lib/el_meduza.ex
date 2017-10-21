@@ -10,10 +10,8 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.index
-  {:ok, %{"root" => _ }} = ElMeduza.index
+  ElMeduza.index
   ```
-
   """
   @spec index() :: {:ok, map} | {:error, any}
   def index do
@@ -26,8 +24,7 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.informers
-  {:ok, %{"informers" => _ }} = ElMeduza.informers
+  ElMeduza.informers
   ```
 
   """
@@ -42,13 +39,7 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.stocks
-  {:ok, %{"brent" => %{"current" => _, "prev" => _,
-              "state" => _}, "btc" => _,
-            "eur" => %{"current" => _, "prev" => _,
-              "state" => "down"}, "intouch" => _,
-            "usd" => %{"current" => _, "prev" => _,
-              "state" => _}}} = ElMeduza.stocks
+  ElMeduza.stocks
   ```
 
   """
@@ -68,9 +59,7 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.search("news")
-  {:ok,
-  %{"_count" => 24, "collection" => _, "documents" => _}} = ElMeduza.search("news")
+  ElMeduza.search("news")
   ```
   """
 
@@ -90,10 +79,7 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
-  {:ok, %{"documents" => _,
-    "root" => %{"authors" => _, "content" => %{"body" => _}}}} =
-    ElMeduza.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
+  ElMeduza.single_post("feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali")
   ```
 
   """
@@ -108,9 +94,6 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.specials
-  {:ok,
-    %{"root" => [%{"title" => _, "screen_type" => _,"collection" => _}]}} =
   ElMeduza.specials
   ```
 
@@ -130,11 +113,7 @@ defmodule ElMeduza do
   ## Examples
 
   ```elixir
-  iex> ElMeduza.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali"])
-  {:ok,
-    %{"feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali" => %{"stats" => _, "stats_b" => _}}} =
   ElMeduza.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali"])
-
   ```
 
   """

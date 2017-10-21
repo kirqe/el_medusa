@@ -1,0 +1,1717 @@
+{
+  "root": [{
+    "title": "branding",
+    "screen_type": "branding",
+    "collection": ["feature/2017/10/18/vladimir-pozner-v-programme-vdud-o-putine-razgovorah-s-peskovym-i-neudachnom-intervyu-medvedeva", "feature/2017/10/18/vyshel-iz-sizo-i-tut-zhe-zanyalsya-sobstvennoy-mayning-fermoy", "feature/2017/10/18/serial-ohotnik-za-razumom-devida-finchera-1-sezon", "feature/2017/10/18/kavkazskie-klany-perezhivayut-upadok-chto-eto-znachit-dlya-kremlya", "slides/dozhd-kot-len", "feature/2017/10/18/predpochitayu-proetsirovat-sebya-na-personazhey-predelno-dalekih-ot-menya-i-chasche-na-zhenschin-chem-na-muzhchin", "cards/hochu-otdat-rebenka-v-sport-s-chego-nachat", "short/2017/10/18/modernizatsiya-i-zaschita-suvereniteta-kak-rossiya-ob-yasnyala-otpravku-nemetskih-turbin-v-krym", "games/klient-vsegda-prav-proverte-kakoy-iz-vas-onlayn-prodavets", "cards/sobirayus-na-lechenie-v-yuzhnuyu-koreyu-chto-nuzhno-znat", "promo/podpiska-na-vecherku", "rotation/reklamnaya-rotatsiya-pod-materialami-3-327852"],
+    "sections": [{
+      "title": null,
+      "uuid": "ccb40c2cb420",
+      "blocks": [{
+        "title": "Митинг Навального в Нижнем Новгороде",
+        "published_at": 1508330310,
+        "bg_image": null,
+        "uuid": "4166ae0c3f16",
+        "collection": ["feature/2017/10/18/vladimir-pozner-v-programme-vdud-o-putine-razgovorah-s-peskovym-i-neudachnom-intervyu-medvedeva"],
+        "type": "feature"
+      }, {
+        "title": null,
+        "published_at": 1508330318,
+        "bg_image": null,
+        "uuid": "38c6e525448c",
+        "collection": ["feature/2017/10/18/vyshel-iz-sizo-i-tut-zhe-zanyalsya-sobstvennoy-mayning-fermoy"],
+        "type": "feature"
+      }]
+    }, {
+      "title": null,
+      "uuid": "9f56f60f42b6",
+      "blocks": [{
+        "title": null,
+        "published_at": 1508330303,
+        "bg_image": null,
+        "uuid": "56f78810c3f9",
+        "collection": ["feature/2017/10/18/serial-ohotnik-za-razumom-devida-finchera-1-sezon"],
+        "type": "feature"
+      }, {
+        "title": null,
+        "published_at": 1508330307,
+        "bg_image": null,
+        "uuid": "e6c5b3db0def",
+        "collection": ["feature/2017/10/18/kavkazskie-klany-perezhivayut-upadok-chto-eto-znachit-dlya-kremlya"],
+        "type": "feature"
+      }, {
+        "title": null,
+        "published_at": 1508226842,
+        "bg_image": null,
+        "uuid": "4344239a44ca",
+        "collection": ["slides/dozhd-kot-len"],
+        "type": "feature"
+      }]
+    }, {
+      "title": null,
+      "uuid": "5305c40d2930",
+      "blocks": [{
+        "title": null,
+        "published_at": 1508330334,
+        "bg_image": null,
+        "uuid": "612a84826875",
+        "collection": ["feature/2017/10/18/predpochitayu-proetsirovat-sebya-na-personazhey-predelno-dalekih-ot-menya-i-chasche-na-zhenschin-chem-na-muzhchin"],
+        "type": "feature"
+      }, {
+        "title": null,
+        "published_at": 1508239817,
+        "bg_image": null,
+        "uuid": "b70237bc0c7f",
+        "collection": ["cards/hochu-otdat-rebenka-v-sport-s-chego-nachat"],
+        "type": "card"
+      }, {
+        "title": null,
+        "published_at": 1508330326,
+        "bg_image": null,
+        "uuid": "b3278da29d14",
+        "collection": ["short/2017/10/18/modernizatsiya-i-zaschita-suvereniteta-kak-rossiya-ob-yasnyala-otpravku-nemetskih-turbin-v-krym"],
+        "type": "feature"
+      }, {
+        "title": null,
+        "published_at": 1508221098,
+        "bg_image": null,
+        "uuid": "d995eb7e1628",
+        "collection": ["games/klient-vsegda-prav-proverte-kakoy-iz-vas-onlayn-prodavets"],
+        "type": "feature"
+      }]
+    }, {
+      "title": null,
+      "uuid": "25e32d1d9b1c",
+      "blocks": [{
+        "title": null,
+        "published_at": 1508226834,
+        "bg_image": null,
+        "uuid": "19089d68f473",
+        "collection": ["cards/sobirayus-na-lechenie-v-yuzhnuyu-koreyu-chto-nuzhno-znat"],
+        "type": "card"
+      }, {
+        "title": null,
+        "published_at": 1503059691,
+        "bg_image": null,
+        "uuid": "c3c8bc189f4e",
+        "collection": ["promo/podpiska-na-vecherku"],
+        "type": "promo"
+      }, {
+        "title": null,
+        "published_at": 1507800219,
+        "bg_image": null,
+        "uuid": "f351ae40b744",
+        "collection": ["rotation/reklamnaya-rotatsiya-pod-materialami-3-327852"],
+        "type": "rotation"
+      }]
+    }],
+    "updated_at": 1508338516,
+    "branding": {
+      "bg_color": "",
+      "share_image_url": "",
+      "url": "https://ya.ru",
+      "title": "under-the-sun",
+      "second_title": "",
+      "description": ""
+    }
+  }],
+  "documents": {
+    "feature/2017/10/18/vladimir-pozner-v-programme-vdud-o-putine-razgovorah-s-peskovym-i-neudachnom-intervyu-medvedeva": {
+      "second_title": "Пересказ для тех, у кого нет времени смотреть часовое интервью",
+      "document_type": "feature",
+      "image": {
+        "original_height": 712,
+        "original_width": 1245,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/562/122/ov/A8ei1E5mxh3vE7sJe6hi4w.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/562/122/ov/858uJQUzqD_XEAfnxwtRJw.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/562/122/ov/Tso9J-kiFol-Yp5oM7YXKg.jpg",
+        "wh_300_200_url": "/image/attachments/images/002/562/122/wh_300_200/p43KZNl5aQe3ByaG_F27ow.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/562/122/wh_165_110/p43KZNl5aQe3ByaG_F27ow.jpg",
+        "small_url": "/image/attachments/images/002/562/122/small/p43KZNl5aQe3ByaG_F27ow.jpg",
+        "large_url": "/image/attachments/images/002/562/122/large/p43KZNl5aQe3ByaG_F27ow.jpg",
+        "elarge_url": "/image/attachments/images/002/562/122/elarge/p43KZNl5aQe3ByaG_F27ow.jpg",
+        "caption": "",
+        "credit": "«вДудь» / Youtube",
+        "display": "hide"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/562/122/ov/A8ei1E5mxh3vE7sJe6hi4w.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/562/122/ov/858uJQUzqD_XEAfnxwtRJw.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/562/122/ov/Tso9J-kiFol-Yp5oM7YXKg.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/562/122/wh_300_200/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/562/122/wh_165_110/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "small_url": "/image/attachments/images/002/562/122/small/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "large_url": "/image/attachments/images/002/562/122/large/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "elarge_url": "/image/attachments/images/002/562/122/elarge/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "caption": "",
+              "credit": "«вДудь» / Youtube",
+              "display": "hide",
+              "show": false
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            },
+            "ads": {
+              "show": true
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/562/122/ov/A8ei1E5mxh3vE7sJe6hi4w.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/562/122/ov/858uJQUzqD_XEAfnxwtRJw.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/562/122/ov/Tso9J-kiFol-Yp5oM7YXKg.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/562/122/wh_300_200/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/562/122/wh_165_110/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "small_url": "/image/attachments/images/002/562/122/small/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "large_url": "/image/attachments/images/002/562/122/large/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "elarge_url": "/image/attachments/images/002/562/122/elarge/p43KZNl5aQe3ByaG_F27ow.jpg",
+              "caption": "",
+              "credit": "«вДудь» / Youtube",
+              "display": "hide",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 6,
+      "title": "Владимир Познер в программе «ВДудь» — о Путине, разговорах с Песковым и неудачном интервью Медведева",
+      "url": "feature/2017/10/18/vladimir-pozner-v-programme-vdud-o-putine-razgovorah-s-peskovym-i-neudachnom-intervyu-medvedeva",
+      "modified_at": 1508327650,
+      "published_at": 1508325757,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "истории",
+        "path": "articles"
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "full": false
+    },
+    "feature/2017/10/18/vyshel-iz-sizo-i-tut-zhe-zanyalsya-sobstvennoy-mayning-fermoy": {
+      "second_title": "Блогер Соколовский, липецкий электромонтер, оренбургский школьник и другие — о том, как они зарабатывают на криптовалютах",
+      "document_type": "feature",
+      "image": {
+        "original_height": 732,
+        "original_width": 1280,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/510/767/ov/SDKc_zsYfHBatXRze10i5g.png",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/510/767/ov/XbZcRiPs319I71wL2eoIbA.png",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/510/767/ov/rFp0iFl0c6Bzh4wxjwj9PA.png",
+        "wh_300_200_url": "/image/attachment_overrides/images/002/510/767/ov/Krs91vhgHwJGGnowSPRxdA.png",
+        "wh_165_110_url": "/image/attachments/images/002/510/767/wh_165_110/dURkfKRwt2-I0YJX8p6ndg.png",
+        "small_url": "/image/attachments/images/002/510/767/small/dURkfKRwt2-I0YJX8p6ndg.png",
+        "large_url": "/image/attachments/images/002/510/767/large/dURkfKRwt2-I0YJX8p6ndg.png",
+        "elarge_url": "/image/attachments/images/002/510/767/elarge/dURkfKRwt2-I0YJX8p6ndg.png",
+        "caption": "",
+        "credit": "",
+        "display": "hide"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/510/767/ov/SDKc_zsYfHBatXRze10i5g.png",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/510/767/ov/XbZcRiPs319I71wL2eoIbA.png",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/510/767/ov/rFp0iFl0c6Bzh4wxjwj9PA.png",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/510/767/ov/Krs91vhgHwJGGnowSPRxdA.png",
+              "wh_165_110_url": "/image/attachments/images/002/510/767/wh_165_110/dURkfKRwt2-I0YJX8p6ndg.png",
+              "small_url": "/image/attachments/images/002/510/767/small/dURkfKRwt2-I0YJX8p6ndg.png",
+              "large_url": "/image/attachments/images/002/510/767/large/dURkfKRwt2-I0YJX8p6ndg.png",
+              "elarge_url": "/image/attachments/images/002/510/767/elarge/dURkfKRwt2-I0YJX8p6ndg.png",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": false
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/510/767/ov/SDKc_zsYfHBatXRze10i5g.png",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/510/767/ov/XbZcRiPs319I71wL2eoIbA.png",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/510/767/ov/rFp0iFl0c6Bzh4wxjwj9PA.png",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/510/767/ov/Krs91vhgHwJGGnowSPRxdA.png",
+              "wh_165_110_url": "/image/attachments/images/002/510/767/wh_165_110/dURkfKRwt2-I0YJX8p6ndg.png",
+              "small_url": "/image/attachments/images/002/510/767/small/dURkfKRwt2-I0YJX8p6ndg.png",
+              "large_url": "/image/attachments/images/002/510/767/large/dURkfKRwt2-I0YJX8p6ndg.png",
+              "elarge_url": "/image/attachments/images/002/510/767/elarge/dURkfKRwt2-I0YJX8p6ndg.png",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 2,
+      "title": "«Вышел из СИЗО и тут же занялся собственной майнинг-фермой»",
+      "url": "feature/2017/10/18/vyshel-iz-sizo-i-tut-zhe-zanyalsya-sobstvennoy-mayning-fermoy",
+      "modified_at": 1508326696,
+      "published_at": 1508325729,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "истории",
+        "path": "articles"
+      },
+      "footer": {
+        "caption": "\u003cp\u003eЗаписала \u003cstrong\u003eЮлия Дудкина\u003c/strong\u003e\u003c/p\u003e",
+        "credit": null
+      },
+      "full": false
+    },
+    "feature/2017/10/18/serial-ohotnik-za-razumom-devida-finchera-1-sezon": {
+      "second_title": "У Netflix наконец-то появился свой «Настоящий детектив»",
+      "document_type": "feature",
+      "image": {
+        "original_height": 712,
+        "original_width": 1245,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/561/849/ov/MzfLa1Jqi8AVhLk6bjvUBg.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/561/849/ov/PPfNXZUgGnvKRKwuX1VECQ.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/561/849/ov/SsjZ_RCuOB4-OUpYSuPHSg.jpg",
+        "wh_300_200_url": "/image/attachments/images/002/561/849/wh_300_200/hJp3zDaqRf-GioKyyhzcQg.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/561/849/wh_165_110/hJp3zDaqRf-GioKyyhzcQg.jpg",
+        "small_url": "/image/attachments/images/002/561/849/small/hJp3zDaqRf-GioKyyhzcQg.jpg",
+        "large_url": "/image/attachments/images/002/561/849/large/hJp3zDaqRf-GioKyyhzcQg.jpg",
+        "elarge_url": "/image/attachments/images/002/561/849/elarge/hJp3zDaqRf-GioKyyhzcQg.jpg",
+        "caption": "",
+        "credit": "Merrick Morton / Netflix",
+        "display": "default"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/849/ov/MzfLa1Jqi8AVhLk6bjvUBg.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/849/ov/PPfNXZUgGnvKRKwuX1VECQ.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/849/ov/SsjZ_RCuOB4-OUpYSuPHSg.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/561/849/wh_300_200/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/849/wh_165_110/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "small_url": "/image/attachments/images/002/561/849/small/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "large_url": "/image/attachments/images/002/561/849/large/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "elarge_url": "/image/attachments/images/002/561/849/elarge/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "caption": "",
+              "credit": "Merrick Morton / Netflix",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            },
+            "ads": {
+              "show": true
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/849/ov/MzfLa1Jqi8AVhLk6bjvUBg.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/849/ov/PPfNXZUgGnvKRKwuX1VECQ.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/849/ov/SsjZ_RCuOB4-OUpYSuPHSg.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/561/849/wh_300_200/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/849/wh_165_110/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "small_url": "/image/attachments/images/002/561/849/small/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "large_url": "/image/attachments/images/002/561/849/large/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "elarge_url": "/image/attachments/images/002/561/849/elarge/hJp3zDaqRf-GioKyyhzcQg.jpg",
+              "caption": "",
+              "credit": "Merrick Morton / Netflix",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 1,
+      "title": "Сериал «Охотник за разумом» Дэвида Финчера, 1 сезон",
+      "url": "feature/2017/10/18/serial-ohotnik-za-razumom-devida-finchera-1-sezon",
+      "modified_at": 1508328449,
+      "published_at": 1508328449,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "истории",
+        "path": "articles"
+      },
+      "footer": {
+        "caption": "\u003cp\u003e\u003cstrong\u003eЕгор Москвитин\u003c/strong\u003e\u003c/p\u003e",
+        "credit": null
+      },
+      "full": false
+    },
+    "feature/2017/10/18/kavkazskie-klany-perezhivayut-upadok-chto-eto-znachit-dlya-kremlya": {
+      "second_title": "",
+      "document_type": "feature",
+      "image": {
+        "original_height": 712,
+        "original_width": 1245,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/561/636/ov/ipKJn0dOaQQ7_Ulec8VL2Q.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/561/636/ov/xAed-Svn7cJHt7Qu07wGJA.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/561/636/ov/SD14QIYI7ewtfwo7vT6oJQ.jpg",
+        "wh_300_200_url": "/image/attachment_overrides/images/002/561/636/ov/VkHp9LolGatvbzsN2799qA.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/561/636/wh_165_110/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+        "small_url": "/image/attachments/images/002/561/636/small/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+        "large_url": "/image/attachments/images/002/561/636/large/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+        "elarge_url": "/image/attachments/images/002/561/636/elarge/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+        "caption": "Владимир Васильев сменил на посту главы Дагестана Рамазана Абдулатипова",
+        "credit": "Владимир Смирнов / ТАСС",
+        "display": "default"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/636/ov/ipKJn0dOaQQ7_Ulec8VL2Q.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/636/ov/xAed-Svn7cJHt7Qu07wGJA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/636/ov/SD14QIYI7ewtfwo7vT6oJQ.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/561/636/ov/VkHp9LolGatvbzsN2799qA.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/636/wh_165_110/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "small_url": "/image/attachments/images/002/561/636/small/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "large_url": "/image/attachments/images/002/561/636/large/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "elarge_url": "/image/attachments/images/002/561/636/elarge/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "caption": "Владимир Васильев сменил на посту главы Дагестана Рамазана Абдулатипова",
+              "credit": "Владимир Смирнов / ТАСС",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            },
+            "ads": {
+              "show": true
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/636/ov/ipKJn0dOaQQ7_Ulec8VL2Q.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/636/ov/xAed-Svn7cJHt7Qu07wGJA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/636/ov/SD14QIYI7ewtfwo7vT6oJQ.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/561/636/ov/VkHp9LolGatvbzsN2799qA.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/636/wh_165_110/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "small_url": "/image/attachments/images/002/561/636/small/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "large_url": "/image/attachments/images/002/561/636/large/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "elarge_url": "/image/attachments/images/002/561/636/elarge/PeLudAVkjgJO6tpzSJ-wTg.jpg",
+              "caption": "Владимир Васильев сменил на посту главы Дагестана Рамазана Абдулатипова",
+              "credit": "Владимир Смирнов / ТАСС",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "url": "http://carnegie.ru/commentary/73447",
+        "trust": 0,
+        "name": "Московский центр Карнеги",
+        "quote": "\u003cbr\u003e"
+      },
+      "version": 3,
+      "title": "Кавказские кланы переживают упадок. Что это означает для Кремля?",
+      "url": "feature/2017/10/18/kavkazskie-klany-perezhivayut-upadok-chto-eto-znachit-dlya-kremlya",
+      "modified_at": 1508329201,
+      "published_at": 1508328910,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "истории",
+        "path": "articles"
+      },
+      "footer": {
+        "caption": "\u003cp\u003e\u003cstrong\u003eКонстантин Казенин\u003c/strong\u003e, Carnegie.ru\u003c/p\u003e",
+        "credit": null
+      },
+      "full": false
+    },
+    "slides/dozhd-kot-len": {
+      "document_type": "feature",
+      "second_title": "И другие причины, почему вы не идете за продуктами, даже если очень хотите есть",
+      "image": {
+        "original_height": 732,
+        "original_width": 1280,
+        "wh_1245_500_url": "/image/attachments/images/002/514/195/wh_1245_500/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/514/195/ov/I_noUx9i-OfANzT5RJdK-Q.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/514/195/ov/oMUXR4kjeKSguRJk_5nUVA.jpg",
+        "wh_300_200_url": "/image/attachment_overrides/images/002/514/195/ov/upvhypm6Mjfz4XEA8D_TDw.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/514/195/wh_165_110/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+        "small_url": "/image/attachments/images/002/514/195/small/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+        "large_url": "/image/attachments/images/002/514/195/large/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+        "blurred_url": "/image/attachments/images/002/514/195/blurred/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "prefs": {
+        "inner": {
+          "layout": "slides",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/514/195/wh_1245_500/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/514/195/ov/I_noUx9i-OfANzT5RJdK-Q.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/514/195/ov/oMUXR4kjeKSguRJk_5nUVA.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/514/195/ov/upvhypm6Mjfz4XEA8D_TDw.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/514/195/wh_165_110/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "small_url": "/image/attachments/images/002/514/195/small/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "large_url": "/image/attachments/images/002/514/195/large/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "blurred_url": "/image/attachments/images/002/514/195/blurred/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "caption": "",
+              "credit": "",
+              "show": false
+            },
+            "bg": {
+              "color": "#F2F2F2"
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/514/166/original/Lz1ozea6EywwOvEXmzFoJw.png",
+              "sponsored_url": "https://mdza.io/jB44rYXaUe8"
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/514/195/wh_1245_500/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/514/195/ov/I_noUx9i-OfANzT5RJdK-Q.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/514/195/ov/oMUXR4kjeKSguRJk_5nUVA.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/514/195/ov/upvhypm6Mjfz4XEA8D_TDw.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/514/195/wh_165_110/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "small_url": "/image/attachments/images/002/514/195/small/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "large_url": "/image/attachments/images/002/514/195/large/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "blurred_url": "/image/attachments/images/002/514/195/blurred/FB1LlW5XE4Cp72v1Wjzp5w.jpg",
+              "caption": "",
+              "credit": "",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/514/166/original/Lz1ozea6EywwOvEXmzFoJw.png",
+              "sponsored_url": "https://mdza.io/jB44rYXaUe8"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 7,
+      "title": "Дождь, кот, лень",
+      "url": "slides/dozhd-kot-len",
+      "modified_at": 1508235812,
+      "published_at": 1508219725,
+      "pub_date": "2017-10-17",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": "\u003cp\u003eФото в анонсе:  Ray Bond / Shutterstock\u003c/p\u003e"
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/attachments/images/002/514/166/original/Lz1ozea6EywwOvEXmzFoJw.png",
+        "sponsored_url": "https://mdza.io/jB44rYXaUe8"
+      },
+      "share_image_url": "https://meduza.io/image/attachments/images/002/514/172/original/-tJ3DwnTIIt6M4q0ZG8eIA.jpg",
+      "full": false
+    },
+    "feature/2017/10/18/predpochitayu-proetsirovat-sebya-na-personazhey-predelno-dalekih-ot-menya-i-chasche-na-zhenschin-chem-na-muzhchin": {
+      "second_title": "Режиссер Франсуа Озон — об эротическом триллере «Двуличный любовник»",
+      "document_type": "feature",
+      "image": {
+        "original_height": 712,
+        "original_width": 1245,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/558/677/ov/ZM28mV0v2aGlj-9eQymccA.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/558/677/ov/zSinxML4ZrRMmJOaw7E6TA.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/558/677/ov/ba2qTfQL4y03UaKlVEp1sg.jpg",
+        "wh_300_200_url": "/image/attachment_overrides/images/002/558/677/ov/SNukVu-KvW5ld0gqVFgQ0g.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/558/677/wh_165_110/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+        "small_url": "/image/attachments/images/002/558/677/small/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+        "large_url": "/image/attachments/images/002/558/677/large/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+        "elarge_url": "/image/attachments/images/002/558/677/elarge/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+        "caption": "",
+        "credit": "Benainous+Catarina / REX / Vida Press",
+        "display": "default"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/558/677/ov/ZM28mV0v2aGlj-9eQymccA.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/558/677/ov/zSinxML4ZrRMmJOaw7E6TA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/558/677/ov/ba2qTfQL4y03UaKlVEp1sg.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/558/677/ov/SNukVu-KvW5ld0gqVFgQ0g.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/558/677/wh_165_110/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "small_url": "/image/attachments/images/002/558/677/small/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "large_url": "/image/attachments/images/002/558/677/large/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "elarge_url": "/image/attachments/images/002/558/677/elarge/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "caption": "",
+              "credit": "Benainous+Catarina / REX / Vida Press",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            },
+            "ads": {
+              "show": true
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/558/677/ov/ZM28mV0v2aGlj-9eQymccA.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/558/677/ov/zSinxML4ZrRMmJOaw7E6TA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/558/677/ov/ba2qTfQL4y03UaKlVEp1sg.jpg",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/558/677/ov/SNukVu-KvW5ld0gqVFgQ0g.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/558/677/wh_165_110/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "small_url": "/image/attachments/images/002/558/677/small/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "large_url": "/image/attachments/images/002/558/677/large/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "elarge_url": "/image/attachments/images/002/558/677/elarge/BXsaI7AD8EQIBqmUuWHvtA.jpg",
+              "caption": "",
+              "credit": "Benainous+Catarina / REX / Vida Press",
+              "display": "default",
+              "show": true
+            },
+            "tag": {
+              "name": "истории",
+              "path": "articles",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 2,
+      "title": "«Предпочитаю проецировать себя на персонажей, предельно далеких от меня. И чаще на женщин, чем на мужчин»",
+      "url": "feature/2017/10/18/predpochitayu-proetsirovat-sebya-na-personazhey-predelno-dalekih-ot-menya-i-chasche-na-zhenschin-chem-na-muzhchin",
+      "modified_at": 1508338514,
+      "published_at": 1508304369,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "истории",
+        "path": "articles"
+      },
+      "footer": {
+        "caption": "\u003cp\u003e\u003cstrong\u003eАнтон Долин\u003c/strong\u003e\u003c/p\u003e",
+        "credit": null
+      },
+      "full": false
+    },
+    "cards/hochu-otdat-rebenka-v-sport-s-chego-nachat": {
+      "document_type": "card",
+      "image": {
+        "original_height": 480,
+        "original_width": 480,
+        "caption": "",
+        "credit": "\u003cbr\u003e",
+        "small_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png",
+        "large_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png"
+      },
+      "table_of_contents": ["Спорт — это точно полезно?", "Что нужно учесть в первую очередь?", "А кроме здоровья?", "Где искать эти секции?", "Я хорошо играл в футбол/занималась художественной гимнастикой, значит ли, что эти секции подойдут моему ребенку?", "Какие виды спорта подходят мальчикам, а какие — девочкам?", "А если ребенку ничего не интересно?", "Что делать, если ребенок ленится, хитрит и не хочет заниматься спортом?", "В каком возрасте лучше отдавать ребенка в спорт?", "Как выбрать тренера?", "Чего нужно избегать?"],
+      "chapters_count": 11,
+      "prefs": {
+        "inner": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 480,
+              "original_width": 480,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png",
+              "large_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/557/818/original/Ey3ga0tCoqrxnvF_gEgABA.png",
+              "sponsored_url": "https://mdza.io/PpvryvOA8JE"
+            }
+          }
+        },
+        "outer": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 480,
+              "original_width": 480,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png",
+              "large_url": "/image/attachments/images/002/557/797/large/KTm_m2mSMOldmXnKVBiqjA.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/557/818/original/Ey3ga0tCoqrxnvF_gEgABA.png",
+              "sponsored_url": "https://mdza.io/PpvryvOA8JE"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 9,
+      "title": "Хочу отдать ребенка в спорт. С чего начать?",
+      "url": "cards/hochu-otdat-rebenka-v-sport-s-chego-nachat",
+      "modified_at": 1508314489,
+      "published_at": 1508220189,
+      "pub_date": "2017-10-17",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/attachments/images/002/557/818/original/Ey3ga0tCoqrxnvF_gEgABA.png",
+        "sponsored_url": "https://mdza.io/PpvryvOA8JE"
+      },
+      "full": false
+    },
+    "short/2017/10/18/modernizatsiya-i-zaschita-suvereniteta-kak-rossiya-ob-yasnyala-otpravku-nemetskih-turbin-v-krym": {
+      "second_title": "",
+      "document_type": "feature",
+      "image": {
+        "original_height": 712,
+        "original_width": 1245,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/561/542/ov/u20d1IhoHm7oiwAQGSy-UA.jpg",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/561/542/ov/obWx8jXSJxSqnMepskTNiA.jpg",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/561/542/ov/rt3AGr-iRZ4_f2cczBEyQw.jpg",
+        "wh_300_200_url": "/image/attachments/images/002/561/542/wh_300_200/5yacgdC8bFA4QnNAcw6XSw.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/561/542/wh_165_110/5yacgdC8bFA4QnNAcw6XSw.jpg",
+        "small_url": "/image/attachments/images/002/561/542/small/5yacgdC8bFA4QnNAcw6XSw.jpg",
+        "large_url": "/image/attachments/images/002/561/542/large/5yacgdC8bFA4QnNAcw6XSw.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "prefs": {
+        "inner": {
+          "layout": "picture",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/542/ov/u20d1IhoHm7oiwAQGSy-UA.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/542/ov/obWx8jXSJxSqnMepskTNiA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/542/ov/rt3AGr-iRZ4_f2cczBEyQw.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/561/542/wh_300_200/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/542/wh_165_110/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "small_url": "/image/attachments/images/002/561/542/small/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "large_url": "/image/attachments/images/002/561/542/large/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "caption": "",
+              "credit": "",
+              "show": false
+            },
+            "tag": {
+              "name": "новости",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": true
+            },
+            "reactions": {
+              "show": true
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 712,
+              "original_width": 1245,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/561/542/ov/u20d1IhoHm7oiwAQGSy-UA.jpg",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/561/542/ov/obWx8jXSJxSqnMepskTNiA.jpg",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/561/542/ov/rt3AGr-iRZ4_f2cczBEyQw.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/561/542/wh_300_200/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/561/542/wh_165_110/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "small_url": "/image/attachments/images/002/561/542/small/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "large_url": "/image/attachments/images/002/561/542/large/5yacgdC8bFA4QnNAcw6XSw.jpg",
+              "caption": "",
+              "credit": "",
+              "show": true
+            },
+            "tag": {
+              "name": "новости",
+              "path": "",
+              "show": true
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 2,
+      "title": "Модернизация и защита суверенитета: как Россия объясняла отправку немецких турбин в Крым",
+      "url": "short/2017/10/18/modernizatsiya-i-zaschita-suvereniteta-kak-rossiya-ob-yasnyala-otpravku-nemetskih-turbin-v-krym",
+      "modified_at": 1508323380,
+      "published_at": 1508320594,
+      "pub_date": "2017-10-18",
+      "tag": {
+        "name": "новости",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": "\u003cp\u003eФото в анонсе: Stefan Boness / Ipon / Sipa / Scanpix / LETA\u003c/p\u003e"
+      },
+      "full": false
+    },
+    "games/klient-vsegda-prav-proverte-kakoy-iz-vas-onlayn-prodavets": {
+      "second_title": "Игра «Медузы» и PayPal",
+      "document_type": "feature",
+      "image": {
+        "original_height": 732,
+        "original_width": 1280,
+        "wh_1245_500_url": "/image/attachment_overrides/images/002/517/611/ov/7eJSaeNOJM9fDByRmbsiCQ.png",
+        "wh_615_410_url": "/image/attachment_overrides/images/002/517/611/ov/t0PFRuE9By3a9HesHfltiA.png",
+        "wh_405_270_url": "/image/attachment_overrides/images/002/517/611/ov/eHjb9W2hEbMuRVj-4qVpqg.png",
+        "wh_300_200_url": "/image/attachment_overrides/images/002/517/611/ov/adTrfUStOqHaUKvtaJ4aOA.png",
+        "wh_165_110_url": "/image/attachments/images/002/517/611/wh_165_110/3U6T-0bSPxNEY0I_yiX3_g.png",
+        "small_url": "/image/attachments/images/002/517/611/small/3U6T-0bSPxNEY0I_yiX3_g.png",
+        "large_url": "/image/attachments/images/002/517/611/large/3U6T-0bSPxNEY0I_yiX3_g.png",
+        "caption": "",
+        "credit": ""
+      },
+      "webview_url": "https://meduza.io/games/klient-vsegda-prav-proverte-kakoy-iz-vas-onlayn-prodavets?embedded=true",
+      "hide_header": true,
+      "prefs": {
+        "inner": {
+          "layout": "game",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/517/611/ov/7eJSaeNOJM9fDByRmbsiCQ.png",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/517/611/ov/t0PFRuE9By3a9HesHfltiA.png",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/517/611/ov/eHjb9W2hEbMuRVj-4qVpqg.png",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/517/611/ov/adTrfUStOqHaUKvtaJ4aOA.png",
+              "wh_165_110_url": "/image/attachments/images/002/517/611/wh_165_110/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "small_url": "/image/attachments/images/002/517/611/small/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "large_url": "/image/attachments/images/002/517/611/large/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "caption": "",
+              "credit": "",
+              "show": true
+            },
+            "background": {
+              "show": true,
+              "elements_color": "white",
+              "mobile": {
+                "color": "white",
+                "playing": {
+                  "show_image": true
+                },
+                "image": {
+                  "url": "/image/attachments/images/002/517/624/original/0WwondS7cNbQyUp4nlM4JA.png",
+                  "original_height": 1317,
+                  "original_width": 822,
+                  "caption": "",
+                  "credit": "\u003cbr\u003e",
+                  "small_url": "/image/attachments/images/002/517/624/small/0WwondS7cNbQyUp4nlM4JA.png",
+                  "blur_url": "/image/attachments/images/002/517/624/blur/0WwondS7cNbQyUp4nlM4JA.png"
+                }
+              },
+              "desktop": {
+                "color": "white",
+                "playing": {
+                  "show_image": true
+                },
+                "image": {
+                  "url": "/image/attachments/images/002/517/619/original/htXM9vSovUXN1pZHjPKAGA.png",
+                  "original_height": 1317,
+                  "original_width": 2148,
+                  "caption": "",
+                  "credit": "\u003cbr\u003e",
+                  "small_url": "/image/attachments/images/002/517/619/small/htXM9vSovUXN1pZHjPKAGA.png",
+                  "blur_url": "/image/attachments/images/002/517/619/blur/htXM9vSovUXN1pZHjPKAGA.png"
+                }
+              }
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/137/original/paypal.png",
+              "sponsored_url": "https://mdza.io/rxWYQPLM0Z8"
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachment_overrides/images/002/517/611/ov/7eJSaeNOJM9fDByRmbsiCQ.png",
+              "wh_615_410_url": "/image/attachment_overrides/images/002/517/611/ov/t0PFRuE9By3a9HesHfltiA.png",
+              "wh_405_270_url": "/image/attachment_overrides/images/002/517/611/ov/eHjb9W2hEbMuRVj-4qVpqg.png",
+              "wh_300_200_url": "/image/attachment_overrides/images/002/517/611/ov/adTrfUStOqHaUKvtaJ4aOA.png",
+              "wh_165_110_url": "/image/attachments/images/002/517/611/wh_165_110/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "small_url": "/image/attachments/images/002/517/611/small/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "large_url": "/image/attachments/images/002/517/611/large/3U6T-0bSPxNEY0I_yiX3_g.png",
+              "caption": "",
+              "credit": "",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/137/original/paypal.png",
+              "sponsored_url": "https://mdza.io/rxWYQPLM0Z8"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 7,
+      "title": "Клиент всегда прав? Проверьте, какой из вас онлайн-продавец",
+      "url": "games/klient-vsegda-prav-proverte-kakoy-iz-vas-onlayn-prodavets",
+      "modified_at": 1508336773,
+      "published_at": 1508219565,
+      "pub_date": "2017-10-17",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/partners/logos/000/000/137/original/paypal.png",
+        "sponsored_url": "https://mdza.io/rxWYQPLM0Z8"
+      },
+      "full": false
+    },
+    "cards/sobirayus-na-lechenie-v-yuzhnuyu-koreyu-chto-nuzhno-znat": {
+      "document_type": "card",
+      "image": {
+        "original_height": 512,
+        "original_width": 512,
+        "caption": "",
+        "credit": "\u003cbr\u003e",
+        "small_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png",
+        "large_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png"
+      },
+      "table_of_contents": ["Что случилось?", "С чего начать?", "Допустим, клинику выбрали. И что, туда можно просто приехать или нужно как-то заранее связаться с врачами?", "Зачем платить другому за то, что я могу сделать самостоятельно?", "Но я же буду находиться в клинике, зачем мне искать жилье?", "Так, и за что еще придется доплачивать?", "А можно вообще не заморачиваться и купить тур, куда входит все необходимое?", "Я не против делегировать организационные моменты, но боюсь нарваться на аферистов. Как этого избежать?", "Хорошо, с клиникой и агентством решили. Какие документы мне нужно собрать?", "И это все должно быть на корейском? Где мне найти переводчика?", "А что с визой?", "Можно как-то еще сэкономить?"],
+      "chapters_count": 12,
+      "prefs": {
+        "inner": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png",
+              "large_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/156/original/korea_copy_3.png",
+              "sponsored_url": "https://mdza.io/epE4ZN-WEns"
+            }
+          }
+        },
+        "outer": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png",
+              "large_url": "/image/attachments/images/002/536/635/large/95AEdGBSvAoeVH-bKd7-Fg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/156/original/korea_copy_3.png",
+              "sponsored_url": "https://mdza.io/epE4ZN-WEns"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 7,
+      "title": "Собираюсь на лечение в Южную Корею. Что нужно знать?",
+      "url": "cards/sobirayus-na-lechenie-v-yuzhnuyu-koreyu-chto-nuzhno-znat",
+      "modified_at": 1508337608,
+      "published_at": 1508152472,
+      "pub_date": "2017-10-16",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/partners/logos/000/000/156/original/korea_copy_3.png",
+        "sponsored_url": "https://mdza.io/epE4ZN-WEns"
+      },
+      "full": false
+    },
+    "promo/podpiska-na-vecherku": {
+      "document_type": "promo_btn",
+      "second_title": "Самая краткая ежедневная газета на свете",
+      "hide_on_mobile": false,
+      "promo_url": "http://eepurl.com/beKbKD",
+      "image": {
+        "original_height": 1260,
+        "original_width": 1875,
+        "wh_1245_500_url": "/image/attachments/images/002/338/401/wh_1245_500/vKREuusmuoncCJjpyS7v_Q.png",
+        "wh_615_410_url": "/image/attachments/images/002/338/401/wh_615_410/vKREuusmuoncCJjpyS7v_Q.png",
+        "wh_405_270_url": "/image/attachments/images/002/338/401/wh_405_270/vKREuusmuoncCJjpyS7v_Q.png",
+        "wh_300_200_url": "/image/attachments/images/002/338/401/wh_300_200/vKREuusmuoncCJjpyS7v_Q.png",
+        "wh_165_110_url": "/image/attachments/images/002/338/401/wh_165_110/vKREuusmuoncCJjpyS7v_Q.png",
+        "small_url": "/image/attachments/images/002/338/401/small/vKREuusmuoncCJjpyS7v_Q.png",
+        "large_url": "/image/attachments/images/002/338/401/large/vKREuusmuoncCJjpyS7v_Q.png",
+        "caption": "",
+        "credit": ""
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "show": false
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 1260,
+              "original_width": 1875,
+              "wh_1245_500_url": "/image/attachments/images/002/338/401/wh_1245_500/vKREuusmuoncCJjpyS7v_Q.png",
+              "wh_615_410_url": "/image/attachments/images/002/338/401/wh_615_410/vKREuusmuoncCJjpyS7v_Q.png",
+              "wh_405_270_url": "/image/attachments/images/002/338/401/wh_405_270/vKREuusmuoncCJjpyS7v_Q.png",
+              "wh_300_200_url": "/image/attachments/images/002/338/401/wh_300_200/vKREuusmuoncCJjpyS7v_Q.png",
+              "wh_165_110_url": "/image/attachments/images/002/338/401/wh_165_110/vKREuusmuoncCJjpyS7v_Q.png",
+              "small_url": "/image/attachments/images/002/338/401/small/vKREuusmuoncCJjpyS7v_Q.png",
+              "large_url": "/image/attachments/images/002/338/401/large/vKREuusmuoncCJjpyS7v_Q.png",
+              "caption": "",
+              "credit": "",
+              "show": true
+            },
+            "call_to_action": {
+              "show": true,
+              "action_url": "http://eepurl.com/beKbKD",
+              "action_message": "Подписаться",
+              "target": "blank"
+            },
+            "promo": {
+              "show": true,
+              "promo_url": "http://eepurl.com/beKbKD"
+            },
+            "subscription": {
+              "show": true,
+              "iframe_src": "https://meduza.io/static/test/email_ru.htm",
+              "title": "Подпишитесь на «Вечернюю Медузу»",
+              "second_title": "Самая краткая ежедневная газета на свете — по вечерам в вашем почтовом ящике или в \u003ca href=\"https://t.me/meduzaevening\" target=\"_blank\"\u003eтелеграме\u003c/a\u003e",
+              "label": "Ваш e-mail",
+              "action": "Подписаться",
+              "success_message": "Спасибо! Проверьте почту",
+              "error_message": "Кажется, что-то пошло не так.\u003cbr\u003eНапишите нам письмо на \u003ca href=\"mailto:reports@meduza.io\"\u003ereports@meduza.io\u003c/a\u003e"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 7,
+      "title": "Подпишитесь на «Вечернюю Медузу»",
+      "url": "promo/podpiska-na-vecherku",
+      "modified_at": 1500465456,
+      "published_at": 1499764637,
+      "pub_date": "2017-07-11",
+      "tag": {
+        "name": "новости",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/",
+        "sponsored_url": "http://eepurl.com/beKbKD"
+      },
+      "promo_btn": "Подписаться",
+      "full": false
+    },
+    "rotation/reklamnaya-rotatsiya-pod-materialami-3-327852": {
+      "document_type": "rotation",
+      "documents": ["cards/mne-srochno-nado-chto-to-komu-to-peredat-chto-delat", "feature/2017/10/16/pochuvstvuyte-sebya-gendirektorom"],
+      "allowed": [],
+      "hide_on_mobile": false,
+      "prefs": {
+        "inner": {},
+        "outer": {}
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 143,
+      "title": "Рекламная ротация под материалами 3",
+      "url": "rotation/reklamnaya-rotatsiya-pod-materialami-3-327852",
+      "modified_at": 1508328433,
+      "published_at": 1481888261,
+      "pub_date": "2016-12-16",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true
+      },
+      "full": false
+    },
+    "cards/mne-srochno-nado-chto-to-komu-to-peredat-chto-delat": {
+      "document_type": "card",
+      "image": {
+        "original_height": 512,
+        "original_width": 512,
+        "caption": "",
+        "credit": "\u003cbr\u003e",
+        "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+        "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png"
+      },
+      "table_of_contents": ["Что случилось?", "И как быть?", "А что тогда делать?", "Как я могу доверить им доставку?", "Отслеживать-то можно, но вдруг из посылки что-то пропадет?", "Мне надо перевезти что-то большое, например стиральную машину. Получится?", "У меня свой бизнес. Gett Delivery можно пользоваться вместо курьерской службы?", "Приведите пример: как это происходит?", "Какая от этого выгода магазину? Чем это лучше штатных курьеров?", "И сколько стоят эти услуги?", "Сервис уже работает в моем городе?"],
+      "chapters_count": 11,
+      "prefs": {
+        "inner": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+              "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+            }
+          }
+        },
+        "outer": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+              "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 5,
+      "title": "Мне срочно надо что-то кому-то передать. Что делать?",
+      "url": "cards/mne-srochno-nado-chto-to-komu-to-peredat-chto-delat",
+      "modified_at": 1507902138,
+      "published_at": 1507799896,
+      "pub_date": "2017-10-12",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+        "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+      },
+      "full": false
+    },
+    "feature/2017/10/16/pochuvstvuyte-sebya-gendirektorom": {
+      "second_title": "Разберитесь в трех сложных бизнес-кейсах особой экономической зоны «Алабуга»",
+      "document_type": "feature",
+      "image": {
+        "original_height": 732,
+        "original_width": 1280,
+        "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "caption": "",
+        "credit": "",
+        "display": "hide"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": false
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+              "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+              "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 3,
+      "title": "Почувствуйте себя гендиректором",
+      "url": "feature/2017/10/16/pochuvstvuyte-sebya-gendirektorom",
+      "modified_at": 1508141295,
+      "published_at": 1508133060,
+      "pub_date": "2017-10-16",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": "\u003cp\u003eФото в анонсе:   Yanugkelid / Shutterstock\u003c/p\u003e"
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+        "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+      },
+      "full": false
+    }
+  },
+  "config": {
+    "base_url": ["https://meduza.io", "http://meduza.io"],
+    "modified_at": 1508338516
+  },
+  "layouts": [{
+    "layout_url": "layouts/9",
+    "updated_at": 1417186470
+  }, {
+    "layout_url": "layouts/10",
+    "updated_at": 1417606773
+  }, {
+    "layout_url": "layouts/12",
+    "updated_at": 1417630117
+  }, {
+    "layout_url": "layouts/13",
+    "updated_at": 1417631088
+  }, {
+    "layout_url": "layouts/14",
+    "updated_at": 1418833492
+  }, {
+    "layout_url": "layouts/15",
+    "updated_at": 1419521390
+  }, {
+    "layout_url": "layouts/16",
+    "updated_at": 1419920847
+  }, {
+    "layout_url": "layouts/17",
+    "updated_at": 1422364359
+  }, {
+    "layout_url": "layouts/18",
+    "updated_at": 1423049565
+  }, {
+    "layout_url": "layouts/22",
+    "updated_at": 1494409297
+  }, {
+    "layout_url": "layouts/readability/8",
+    "updated_at": 1433862238
+  }, {
+    "layout_url": "layouts/19",
+    "updated_at": 1450883218
+  }, {
+    "layout_url": "layouts/20",
+    "updated_at": 1498642459
+  }, {
+    "layout_url": "layouts/21",
+    "updated_at": 1499861892
+  }],
+  "rotation_documents": {
+    "cards/mne-srochno-nado-chto-to-komu-to-peredat-chto-delat": {
+      "document_type": "card",
+      "image": {
+        "original_height": 512,
+        "original_width": 512,
+        "caption": "",
+        "credit": "\u003cbr\u003e",
+        "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+        "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png"
+      },
+      "table_of_contents": ["Что случилось?", "И как быть?", "А что тогда делать?", "Как я могу доверить им доставку?", "Отслеживать-то можно, но вдруг из посылки что-то пропадет?", "Мне надо перевезти что-то большое, например стиральную машину. Получится?", "У меня свой бизнес. Gett Delivery можно пользоваться вместо курьерской службы?", "Приведите пример: как это происходит?", "Какая от этого выгода магазину? Чем это лучше штатных курьеров?", "И сколько стоят эти услуги?", "Сервис уже работает в моем городе?"],
+      "chapters_count": 11,
+      "prefs": {
+        "inner": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+              "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+            }
+          }
+        },
+        "outer": {
+          "layout": "card",
+          "elements": {
+            "image": {
+              "original_height": 512,
+              "original_width": 512,
+              "caption": "",
+              "credit": "\u003cbr\u003e",
+              "small_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "large_url": "/image/attachments/images/002/547/223/large/_384iWglWg0g9s2dCYgvlg.png",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+              "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 5,
+      "title": "Мне срочно надо что-то кому-то передать. Что делать?",
+      "url": "cards/mne-srochno-nado-chto-to-komu-to-peredat-chto-delat",
+      "modified_at": 1507902138,
+      "published_at": 1507799896,
+      "pub_date": "2017-10-12",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": null
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/partners/logos/000/000/173/original/gett.png",
+        "sponsored_url": "https://mdza.io/bA2t1DDycKY"
+      },
+      "full": false
+    },
+    "feature/2017/10/16/pochuvstvuyte-sebya-gendirektorom": {
+      "second_title": "Разберитесь в трех сложных бизнес-кейсах особой экономической зоны «Алабуга»",
+      "document_type": "feature",
+      "image": {
+        "original_height": 732,
+        "original_width": 1280,
+        "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+        "caption": "",
+        "credit": "",
+        "display": "hide"
+      },
+      "prefs": {
+        "inner": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": false
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "ads": {
+              "show": false
+            },
+            "reactions": {
+              "show": false
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+              "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+            }
+          }
+        },
+        "outer": {
+          "layout": "rich",
+          "elements": {
+            "image": {
+              "original_height": 732,
+              "original_width": 1280,
+              "wh_1245_500_url": "/image/attachments/images/002/534/320/wh_1245_500/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_615_410_url": "/image/attachments/images/002/534/320/wh_615_410/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_405_270_url": "/image/attachments/images/002/534/320/wh_405_270/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_300_200_url": "/image/attachments/images/002/534/320/wh_300_200/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "wh_165_110_url": "/image/attachments/images/002/534/320/wh_165_110/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "small_url": "/image/attachments/images/002/534/320/small/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "large_url": "/image/attachments/images/002/534/320/large/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "elarge_url": "/image/attachments/images/002/534/320/elarge/xyyLLz0zGSEOCHerdrjAww.jpg",
+              "caption": "",
+              "credit": "",
+              "display": "hide",
+              "show": true
+            },
+            "tag": {
+              "name": "партнерский материал",
+              "path": "",
+              "show": true
+            },
+            "affiliate": {
+              "show": true,
+              "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+              "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+            }
+          }
+        }
+      },
+      "source": {
+        "name": "Meduza"
+      },
+      "version": 3,
+      "title": "Почувствуйте себя гендиректором",
+      "url": "feature/2017/10/16/pochuvstvuyte-sebya-gendirektorom",
+      "modified_at": 1508141295,
+      "published_at": 1508133060,
+      "pub_date": "2017-10-16",
+      "tag": {
+        "name": "партнерский материал",
+        "path": ""
+      },
+      "footer": {
+        "caption": null,
+        "credit": "\u003cp\u003eФото в анонсе:   Yanugkelid / Shutterstock\u003c/p\u003e"
+      },
+      "affiliate": {
+        "show": true,
+        "image_url": "/image/attachments/images/002/534/345/original/AQKkCuBuatrgDeI2xkDkFw.png",
+        "sponsored_url": "https://mdza.io/f8IEbATdKiU"
+      },
+      "full": false
+    }
+  }
+}
