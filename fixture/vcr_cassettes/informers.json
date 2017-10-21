@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://meduza.io/api/v3/informer"
+    },
+    "response": {
+      "body": "{\"informers\":[{\"text_and_optional_icon\":{\"text\":\"Биткоин и блокчейн: спецпроект «Медузы»\",\"url\":\"https://mdza.io/hD-GmxUwkew\",\"icon_url\":\"https://meduza.io/image/attachments/images/002/562/723/original/y1BUjAAZT02wJMv4riKBdg.png\",\"is_advertisement\":true,\"icon_inline\":\"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\"}}]}",
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 21 Oct 2017 16:49:26 GMT",
+        "Content-Type": "application/json; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "Expires": "Sat, 21 Oct 2017 16:49:26 GMT",
+        "Cache-Control": "max-age=0",
+        "Access-Control-Allow-Origin": "https://api.meduza.io",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

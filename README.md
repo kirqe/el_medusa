@@ -14,4 +14,6 @@ end
 
 `$ mix deps.get`
 
+Examples of raw json responses are at `/test/response_examples`
+
 [Docs](https://hexdocs.pm/el_meduza).

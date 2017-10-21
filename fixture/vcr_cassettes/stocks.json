@@ -1,0 +1,26 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://meduza.io/api/v3//stock/all"
+    },
+    "response": {
+      "body": "{\"usd\":{\"prev\":59.002499,\"current\":57.497500,\"state\":\"down\"},\"eur\":{\"prev\":69.459999,\"current\":67.815000,\"state\":\"down\"},\"brent\":{\"prev\":0.000000,\"current\":57.889999,\"state\":\"down\"},\"intouch\":0,\"btc\":\"354 016\"}",
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 21 Oct 2017 16:51:18 GMT",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Content-Length": "210",
+        "Connection": "keep-alive",
+        "Expires": "Sat, 21 Oct 2017 16:53:18 GMT",
+        "Cache-Control": "max-age=120"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]
