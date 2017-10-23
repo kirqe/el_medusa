@@ -14,4 +14,4 @@ end
 
 `$ mix deps.get`
 
-[Docs](https://hexdocs.pm/el_meduza).
+[Docs](https://hexdocs.pm/el_meduza/ElMeduza.html).
