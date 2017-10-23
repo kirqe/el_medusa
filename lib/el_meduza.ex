@@ -115,7 +115,6 @@ defmodule ElMeduza do
   ```elixir
   ElMeduza.collection_stats(["feature/2017/10/13/zriteli-svoyu-otsenku-vyskazali"])
   ```
-
   """
   @spec collection_stats([String.t]) :: {:ok, map} | {:error, any}
   def collection_stats(collections) do

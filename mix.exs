@@ -11,7 +11,8 @@ defmodule ElMeduza.Mixfile do
       deps: deps(),
       name: "ElMeduza",
       description: "Fetching json api data from some of the available endpoints of meduza.io",
-      source_url: "https://github.com/kirqe/el_meduza"
+      source_url: "https://github.com/kirqe/el_meduza",
+      dialyzer: [ flags: ["-Wunmatched_returns", :error_handling, :race_conditions, :underspecs]]
     ]
   end
 
@@ -30,7 +31,8 @@ defmodule ElMeduza.Mixfile do
       {:poison, "~> 3.1"},
       {:ex_doc, "~> 0.16", only: :dev, runtime: false},
       {:credo, "~> 0.8", only: [:dev, :test], runtime: false},
-      {:exvcr, "~> 0.8", only: :test}
+      {:exvcr, "~> 0.8", only: :test},
+      {:dialyxir, "~> 0.5", only: [:dev], runtime: false}
     ]
   end
 

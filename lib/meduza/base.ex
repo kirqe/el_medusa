@@ -14,6 +14,7 @@ defmodule ElMeduza.Meduza.Base do
 
   defp build_url(url), do: @base_url <> url
 
+  @spec parse_response(tuple) :: {:ok, map} | {:error, any}
   defp parse_response({:ok, %HTTPoison.Response{headers: headers, body: body, status_code: 200}}) do
     case gzipped?(headers) do
       true -> {:ok, body |> unzip_body}
